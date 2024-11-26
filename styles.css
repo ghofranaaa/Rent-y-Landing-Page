@@ -138,6 +138,44 @@ header nav ul li a {
     margin-bottom: 10px;
 }
 
+/* Blog Section */
+#blog {
+    padding: 40px 20px;
+    background-color: #f0f8f0; /* light greenish background */
+    text-align: left;
+}
+
+#blog h2 {
+    font-size: 2.5em;
+    margin-bottom: 30px;
+    color: #00712d; /* earthy green */
+}
+
+#blog article {
+    margin-bottom: 30px;
+}
+
+#blog article h3 {
+    font-size: 2em;
+    margin-bottom: 15px;
+    color: #FF9100; /* orange */
+}
+
+#blog article p {
+    font-size: 1.1em;
+    margin-bottom: 15px;
+}
+
+#blog article ul {
+    margin-left: 20px;
+    font-size: 1.1em;
+}
+
+#blog article a {
+    color: #FF9100;
+    text-decoration: underline;
+}
+
 /* Footer */
 footer {
     text-align: center;
