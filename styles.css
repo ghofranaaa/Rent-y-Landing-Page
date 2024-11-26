@@ -148,7 +148,7 @@ header nav ul li a {
 #blog h2 {
     font-size: 2.5em;
     margin-bottom: 30px;
-    color: #00712d; /* earthy green */
+    color: #FF9100; /* orange */
 }
 
 #blog article {
@@ -158,7 +158,6 @@ header nav ul li a {
 #blog article h3 {
     font-size: 2em;
     margin-bottom: 15px;
-    color: #FF9100; /* orange */
 }
 
 #blog article p {
