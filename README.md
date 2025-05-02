@@ -47,5 +47,4 @@ This project is part of Holberton School’s final curriculum, built as a **full
 
 For questions, feedback, or collaboration:
  - **Email**: ghofraneamemi04@gmail.com
- - **LinkedIn**: www.linkedin.com/in/
-ghofrane-amemi-6200a3338
+ - **LinkedIn**: www.linkedin.com/in/ghofrane-amemi-6200a3338
