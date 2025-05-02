@@ -8,7 +8,7 @@
 
 ![Intro](./assets/intro.png)
 
-**Rent'y** is a centralized marketplace for musicians to access instruments for rent, sale, or repair. The platform is designed to make musical collaboration and access easier for the entire community.
+**Rent'y** is a centralized marketplace for musicians to access instruments for rent, sale, or buy. The platform is designed to make musical collaboration and access easier for the entire community.
 
 ---
 
@@ -37,7 +37,7 @@ This project is part of Holberton School’s final curriculum, built as a **full
 
 ## 📦 Technologies Used
 
-- **Frontend**: Flutter  
+- **Frontend**: Flutter - Dart
 - **Backend**: Python (Flask / FastAPI)  
 - **Database**: MySQL with SQLAlchemy ORM  
 
